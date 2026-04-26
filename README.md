@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm David</h1>
 <h3 align="center">Working in Software Engineering & DevOps | B.Sc. Software Development and Media Informatics</h3>
 
-I'd be honored if you check out [vintagecalc.eu](vintagecalc.eu), my current labor of love.
+I'd be honored if you check out [vintagecalc.eu](https://vintagecalc.eu), my current labor of love.
 
 ---
 
