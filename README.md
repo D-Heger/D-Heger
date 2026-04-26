@@ -1,12 +1,9 @@
 <h1 align="center">Hey there 👋, I'm David</h1>
-<h3 align="center">B.Sc. Student in Softwareentwicklung & Medieninformatik | Working Student in Software Engineering & DevOps</h3>
+<h3 align="center">Working in Software Engineering & DevOps | B.Sc. Software Development and Media Informatics</h3>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Currently studying **B.Sc. Softwareentwicklung und Medieninformatik**
-- 💼 Working as a **Werkstudent** in Software Engineering / DevOps
-- 🔭 Building [**My Own Programming Language**](https://github.com/D-Heger/mop-lang) to learn compiler & interpreter design
 - 🌱 Currently learning **C**, **Go**, and **x86-64 Assembly**
 - ❤️ Passionate about **C#**, **Python**, and **Java**
 - 🎮 Love experimenting with **game dev** and **web dev** in my free time
